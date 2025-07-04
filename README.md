@@ -43,7 +43,11 @@ EDA was conducted to understand the structure,distribution, and key characterist
  - Review count vary widely.
  - Lower rated products have less engagement.
  - Some low-priced prodcut achieve high revenue.
-[RESULT]()
+
+
+
+[RESULT](https://neddy3-my.sharepoint.com/:x:/g/personal/189448_office365online_co/EZ0e7x_2oQFLt0tMvIskif8BOmiP998YMtaLYdR4umNRoQ?e=9M5uSC)
+
 
 
 
@@ -63,8 +67,8 @@ EDA was conducted to understand the structure,distribution, and key characterist
  - Leverage discount Effectiveness
  - Track Real Sales Instead Of Potential Revenue.
 
-[CONTACT]()
+[CONTACT](07064895260
 
-[EMAIL]()
+[EMAIL](gracenancy62@gmail.com)
 
-[LINKEDIN]()
+[LINKEDIN](https://www.linkedin.com/in/amah-grace-895652192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6%2FBjklsKQiaLERQQiZBWJg%3D%3D)
