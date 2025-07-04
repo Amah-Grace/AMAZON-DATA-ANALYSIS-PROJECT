@@ -23,3 +23,11 @@ These are tools used in handling data analysis, text processing and visualizatio
    - Excel pivot table: used for quick summarization of customer ratings, catagory count, and sentiment grouping . it helps to guild the structure of the final dashboard.
    - Excel pivot chart: Like cluster column chart, doughnut, pie chart helped to summarise and visualized key metrics such as rating distribution, review count and category trends. these            tools support quick insight during the exploratory phrase before building advance visuals
    - Excel Dashboard: Designed to present interactiveness, combinging slicer, charts, cards, to give a clear snapshot of product performance and sentiment.
+## Data Cleaning And Preparation
+Before analysis, the dataset underwent thorough cleaning and transformation to ensure accuracy, consistency,and usability across tools like Microsoft Excel.
+ - Filterinf Irrelevant entries and duplicates in the product and category column to reduce the number of character and to make them unique.
+ - Text Cleaning: removing special character, and excessive space using =cleanTrim function. converting text to proper case using =Proper function to standardize inputs for sentiment and keyword analysis.
+ - Removing irrelevant column that do not support the analysis.
+ - Creating New columns, i created ew columns like price bucket, potential revenue, high discount, reviews, rating score to support and give bases to the analysis
+ - Data Formatting: giving the appropriate datatype and formatings to the dataset.
+ - 
