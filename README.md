@@ -48,11 +48,15 @@ EDA was conducted to understand the structure,distribution, and key characterist
 
 [RESULT](https://neddy3-my.sharepoint.com/:x:/g/personal/189448_office365online_co/EZ0e7x_2oQFLt0tMvIskif8BOmiP998YMtaLYdR4umNRoQ?e=9M5uSC)
 
+![Screenshot (134)](https://github.com/user-attachments/assets/bed08970-173f-4d78-8b24-f9115061016a)
 
+![Screenshot (133)](https://github.com/user-attachments/assets/866190c3-0571-4a6e-8b54-b6a3561d65c0)
 
+![Screenshot (126)](https://github.com/user-attachments/assets/1576ae76-3fbc-4c7f-92ae-a4e0dfd21b60)
 
+![Screenshot (127)](https://github.com/user-attachments/assets/5117beb6-fadb-43f3-98f7-1f17e350411f)
 
-
+![Screenshot (130)](https://github.com/user-attachments/assets/e4748d24-d783-4fe9-b4a9-c51630dbc4a2)
 
 
 ## FNDING
