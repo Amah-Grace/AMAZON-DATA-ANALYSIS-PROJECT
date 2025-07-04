@@ -30,4 +30,41 @@ Before analysis, the dataset underwent thorough cleaning and transformation to e
  - Removing irrelevant column that do not support the analysis.
  - Creating New columns, i created ew columns like price bucket, potential revenue, high discount, reviews, rating score to support and give bases to the analysis
  - Data Formatting: giving the appropriate datatype and formatings to the dataset.
- - 
+## Exploratory Data Analysis
+EDA was conducted to understand the structure,distribution, and key characteristic of the dataset before applying advance analytics and visualization.
+ 1. What is the average discount percentage by product category? 
+ 2. How many products are listed under each category?
+ 3. What is the total number of reviews per category?  
+ 4. Which products have the highest average ratings? 
+ 5. What is the average actual price vs the discounted price by category?
+## Key Insight
+ - Majority of products are highly rated.
+ - High discounts drives sales volune.
+ - Review count vary widely.
+ - Lower rated products have less engagement.
+ - Some low-priced prodcut achieve high revenue.
+[RESULT]()
+
+
+
+
+
+
+
+## FNDING
+ - Most product falls within a narrow rating range of (4.1-4.4)
+ - products with the higher review counts typically alsoshow the potential revenue.
+ - the products with " low" in rating have significantly fewer reviews and reduces impact.
+ - Lower-priced still perform well if volume is high.
+ - There is evidence that customers respond well to product offering both high discount and god rating.
+
+## Conclusion/ Recommendation
+ - segement Data By User Behavior
+ - Leverage discount Effectiveness
+ - Track Real Sales Instead Of Potential Revenue.
+
+[CONTACT]()
+
+[EMAIL]()
+
+[LINKEDIN]()
