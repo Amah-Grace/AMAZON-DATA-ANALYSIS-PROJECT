@@ -71,7 +71,7 @@ EDA was conducted to understand the structure,distribution, and key characterist
  - Leverage discount Effectiveness
  - Track Real Sales Instead Of Potential Revenue.
 
-[CONTACT](07064895260
+[CONTACT](07064895260)
 
 [EMAIL](gracenancy62@gmail.com)
 
